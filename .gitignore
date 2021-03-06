@@ -1,0 +1,16 @@
+out
+.DS_Store
+StudyGroups
+markus-hooks
+.idea
+phase1
+phase2/.idea/
+phase2/AdditionalFiles
+phase2/apidocs
+phase2/phase2.iml
+.required.json
+conversations.ser
+events.ser
+rooms.ser
+user_requests.ser
+users.ser
